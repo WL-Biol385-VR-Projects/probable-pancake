@@ -67,7 +67,7 @@
      <None Include="Assets\VRTK\Scripts\Shaders\Unlit_TransparentColor.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>D:/BIOL_385_Unity/Antibody/Antibody 2/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>D:/BIOL_385_Unity/probable-pancake/Antibody 2/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
