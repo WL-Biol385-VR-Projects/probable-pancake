@@ -81,6 +81,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\InitialToolTipOff.cs" />
+    <Compile Include="Assets\MenuToolTips.cs" />
     <Compile Include="Assets\Scripts\Coulomb\ChargedParticle.cs" />
     <Compile Include="Assets\Scripts\Coulomb\CoulombManager.cs" />
     <Compile Include="Assets\Scripts\Coulomb\MovingChargedParticle.cs" />
